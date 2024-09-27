@@ -5,4 +5,5 @@
 [lab-04]https://github.com/2303A51194/AIML_2303A51194/blob/main/Lab04_AIML.ipynb<br>
 [LAB-05]https://github.com/2303A51194/AIML_2303A51194/blob/main/LAB_05.ipynb<br>
 [LAB-06]https://github.com/2303A51194/AIML_2303A51194/blob/main/Lab_06.ipynb<br>
-[LAB-07]https://colab.research.google.com/drive/1horaSrdawH835lTazR174xcdMQAhVfgb#scrollTo=hQQxjVtC1KZt
+[LAB-07]https://colab.research.google.com/drive/1horaSrdawH835lTazR174xcdMQAhVfgb#scrollTo=hQQxjVtC1KZt  
+[LAB-08]https://github.com/2303A51194/AIML_2303A51194/blob/main/LAB_08.ipynb
