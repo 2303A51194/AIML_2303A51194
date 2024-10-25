@@ -7,3 +7,4 @@
 [LAB-06]https://github.com/2303A51194/AIML_2303A51194/blob/main/Lab_06.ipynb<br>
 [LAB-07]https://colab.research.google.com/drive/1horaSrdawH835lTazR174xcdMQAhVfgb#scrollTo=hQQxjVtC1KZt  
 [LAB-08]https://github.com/2303A51194/AIML_2303A51194/blob/main/LAB_08.ipynb
+[LAB-10]https://colab.research.google.com/drive/1Ba1cwNfrjCwUvuhZ4flGEhbIx6tbwPRn#scrollTo=Ad8H9FKE3eXC
